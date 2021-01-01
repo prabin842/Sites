@@ -1,6 +1,11 @@
-#header .h2{
-background-color:mediumslateblue;
+#header{
+  height:250px;
+background-color:cornflowerblue;
 }
-#header .h2{
+#header .h1{
 color:white;
+}
+body{
+  height:250px;
+background-color:mediumslateblue;
 }
